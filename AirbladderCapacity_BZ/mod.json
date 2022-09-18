@@ -1,0 +1,12 @@
+{
+    "Id": "AirbladderCapacity_BZ",
+    "DisplayName": "Airbladder Capacity BZ",
+    "Author": "RamuneNeptune",
+    "Version": "1.0.0",
+    "Enable": true,
+    "AssemblyName": "AirbladderCapacity_BZ.dll",
+    "VersionDependencies": {
+        "SMLHelper": "2.14"
+    },
+    "Game": "BelowZero"
+}
