@@ -6,3 +6,4 @@ Tweak the amount of oxygen an Airbladder can give the player.
 # Other Mods
 - Faster Animations - in development
 - Seaglide Speed - in development
+- No Sign Text Limit - in development
