@@ -6,9 +6,9 @@
 
 # Mods In Development
 - **Faster Animations**
-- **Seaglide Speed**
 - **No Sign Text Limit**
 - **Cheaper Headlight**
+- **Seaglide Speed**
 
 # Releases
 **Airbladder Capacity**
