@@ -1,9 +1,3 @@
-# Releases
-**Airbladder Capacity**
-Tweak the amount of oxygen an Airbladder can give the player.
-
-- [AirbladderCapacity_BZ.zip]()
-
 # Mods In Development
 - **Faster Animations**
 - **Seaglide Speed**
@@ -14,3 +8,9 @@ Tweak the amount of oxygen an Airbladder can give the player.
 - **Enameled Glass Windows**
 - **Thumper to Quickslot**
 - **Powerglide**
+
+# Releases
+**Airbladder Capacity**
+Tweak the amount of oxygen an Airbladder can give the player.
+
+- [AirbladderCapacity_BZ.zip]()
