@@ -10,4 +10,5 @@ Tweak the amount of oxygen an Airbladder can give the player.
 
 # Planned Mods
 - **Enameled Glass Windows**
+- **Thumper to Quickslot**
 - **Powerglide**
