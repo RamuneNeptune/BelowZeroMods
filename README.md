@@ -1,6 +1,3 @@
-# Below Zero Mods 
-Here are my first few mods, hoping to make more advanced mods as I get better at this..
-
 # Airbladder Capacity
 Tweak the amount of oxygen an Airbladder can give the player.
 
