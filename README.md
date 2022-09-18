@@ -7,6 +7,7 @@ Tweak the amount of oxygen an Airbladder can give the player.
 - **Faster Animations**
 - **Seaglide Speed**
 - **No Sign Text Limit**
+- **Cheaper Headlight**
 
 # Planned Mods
 - **Enameled Glass Windows**
