@@ -1,4 +1,4 @@
 # Airbladder Capacity
 Tweak the amount of oxygen an Airbladder can give the player.
 
-- [AirbladderCapacity_BZ.zip](https://github.com/ramennoodlesxv/BelowZeroMods/files/9593878/AirbladderCapacity_BZ.zip)
+- [AirbladderCapacity_BZ.zip]()
