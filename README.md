@@ -8,3 +8,4 @@ Tweak the amount of oxygen an Airbladder can give the player.
 - Seaglide Speed - in development
 - No Sign Text Limit - in development
 - Enamled Glass Windows - planned
+- Powerglide - planned
