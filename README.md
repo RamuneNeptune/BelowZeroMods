@@ -9,4 +9,4 @@ Tweak the amount of oxygen an Airbladder can give the player.
 - Placeholder5
 - Placeholder6
 
-**I have 6 other mods in development.**
+**I have 6 other mods in active development.**
