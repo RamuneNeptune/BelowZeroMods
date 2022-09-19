@@ -1,6 +1,5 @@
 # Mods In Development
 - **Faster Animations**
-- **No Sign Text Limit**
 - **Cheaper Headlight**
 - **Seaglide Speed**
 
