@@ -1,1 +1,2 @@
-pls fix this for me lol
+i dunno how to patch this on playertool draw 
+and be able to edit playercontroller in the same thing
