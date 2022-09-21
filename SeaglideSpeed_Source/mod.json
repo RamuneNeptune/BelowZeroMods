@@ -5,9 +5,7 @@
     "Version": "1.0.0",
     "Enable": true,
     "AssemblyName": "SeaglideSpeed_BZ.dll",
-    "VersionDependencies": {
-        "SMLHelper": "2.14.1.1"
-    },
     "VersionChecker": { "LatestVersionURL": "https://raw.githubusercontent.com/ramennoodlesxv/BelowZeroMods/main/SeaglideSpeed_Source/mod.json" },
+    "VersionDependencies": {"SMLHelper": "2.14.1.1"},
     "Game": "BelowZero"
 }
