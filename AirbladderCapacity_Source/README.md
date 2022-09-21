@@ -1,1 +1,1 @@
-# These are source code files, not the mod release
+# These are source code files, not a release
