@@ -2,9 +2,9 @@
 ‎
 
 # Mods In Development
+- ~~**Seaglide Speed**~~ | Released
 - **Faster Animations**
 - **Cheaper Headlight**
-- **Seaglide Speed**
 
 # Planned Mods
 - **Enameled Glass Windows**
