@@ -1,0 +1,12 @@
+{
+    "Id": "SeaglideSpeed BZ",
+    "DisplayName": "Seaglide Speed BZ",
+    "Author": "RamuneNeptune",
+    "Version": "1.0.0",
+    "Enable": true,
+    "AssemblyName": "SeaglideSpeed_BZ.dll",
+    "VersionDependencies": {
+        "SMLHelper": "2.14"
+    },
+    "Game": "BelowZero"
+}
