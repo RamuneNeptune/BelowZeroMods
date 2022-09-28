@@ -2,7 +2,7 @@
     "Id": "SeaglideSpeed BZ",
     "DisplayName": "Seaglide Speed BZ",
     "Author": "RamuneNeptune",
-    "Version": "1.0.0",
+    "Version": "1.0.1",
     "Enable": true,
     "AssemblyName": "SeaglideSpeed_BZ.dll",
     "VersionChecker": { "LatestVersionURL": "https://raw.githubusercontent.com/ramennoodlesxv/BelowZeroMods/main/SeaglideSpeed_Source/mod.json" },
