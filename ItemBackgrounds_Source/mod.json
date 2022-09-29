@@ -1,0 +1,10 @@
+﻿{
+    "Id": "ItemBackgrounds_BZ",
+    "DisplayName": "Item Backgrounds BZ",
+    "Author": "RamuneNeptune",
+    "Version": "1.0.0",
+    "Enable": true,
+    "AssemblyName": "ItemBackgrounds_BZ.dll",
+    "VersionDependencies": { "SMLHelper": "2.14.1.1" },
+    "Game": "BelowZero"
+}
