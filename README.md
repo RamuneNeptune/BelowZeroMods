@@ -1,12 +1,12 @@
 ![RamunesMods](https://i.imgur.com/Lo20FOZ.png)
 
-![](https://komarev.com/ghpvc/?username=ramennoodlesxv&color=blue) ![](https://img.shields.io/github/downloads/ramennoodlesxv/BelowZeroMods/total?color=lightblue&label=Total%20Downloads)
-
 ![Notes](https://i.imgur.com/0C6XZR5.png)
 ![Divider](https://i.imgur.com/BJctAJs.png)
 ### Check out my Subnautica Modding Site!  -> https://snm.crd.co
 ### From New Zealand -- Pronouns are He/Him
 ![NZ](https://i.imgur.com/9pMqpZh.png)
+
+![](https://komarev.com/ghpvc/?username=ramennoodlesxv&color=blue) ![](https://img.shields.io/github/downloads/ramennoodlesxv/BelowZeroMods/total?color=green&label=Total%20Downloads)
 #
 - [x] Understand some code
 - [x] Make your first mod
