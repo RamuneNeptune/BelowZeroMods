@@ -1,7 +1,6 @@
-# Mod Releases over there! ‎‎ (up a little bit)  ╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾>
-‎
-
-# Planned Mods
-- **Enameled Glass Windows**
-- **Thumper to Quickslot**
-- **Faster Animations**
+![Test](https://i.imgur.com/HkWyEiD.png)
+#
+- [x] Understand some code
+- [x] Make your first mod
+- [x] Have several unfinished projects
+#
