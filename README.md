@@ -11,18 +11,18 @@
 ![Releases](https://i.imgur.com/AGVkSyh.png)
 ![Divider](https://i.imgur.com/BJctAJs.png)
 ###
+
 > ### [Airbladder Capacity](https://github.com/ramennoodlesxv/BelowZeroMods/files/9596183/AirbladderCapacity_BZ.zip)
 Adjust the amount of oxygen provided by the Airbladder when used.
-‎
+
 > ### [Seaglide Speed](https://github.com/ramennoodlesxv/BelowZeroMods/releases/download/Releases/SeaglideSpeed_BZ.zip)
-‎‎‏‏Adjust the speed of the Seaglide to your liking.
-‎
+Adjust the speed of the Seaglide to your liking.
+
 > ### [Seaglide Hyper Speed](https://github.com/ramennoodlesxv/BelowZeroMods/releases/download/Releases/SeaglideHyperSpeed_BZ.zip)
-Seaglide speed, but way faster.‎‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎
-‎
+Seaglide speed, but way faster.
+
 > ### [Ramunes Recipes](https://github.com/ramennoodlesxv/BelowZeroMods/releases/download/Releases/RamunesRecipes_BZ.zip)
 Toggle custom recipes I have made to make life easier.
-‎
+
 > ### [Item Backgrounds](https://github.com/ramennoodlesxv/BelowZeroMods/releases/download/Releases/ItemBackgrounds_BZ.zip)
-Change the background color of several types of items, e.g. Tools, Resources, Underwater Flora, and more..‎‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎
-‏‏‎
+Change the background color of several types of items, e.g. Tools, Resources, Underwater Flora, and more..
