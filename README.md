@@ -20,7 +20,7 @@
 ### Check out my Subnautica Modding Site!  -> https://snm.crd.co
 ### From New Zealand -- Pronouns are He/Him
 ###
-### Suffering from Success: `69420 million in revenue from modding` 💸
+### Suffering from Success: `69420 million in revenue from modding` (paying 2 billion in taxes) 💸
 ![NZ](https://i.imgur.com/9pMqpZh.png)
 
 ![](https://komarev.com/ghpvc/?username=ramennoodlesxv&color=blue) ![](https://img.shields.io/github/downloads/ramennoodlesxv/BelowZeroMods/total?color=green&label=Total%20Downloads)
