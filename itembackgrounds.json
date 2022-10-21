@@ -1,0 +1,11 @@
+{
+    "Id": "ItemBackgroundsBZ",
+    "DisplayName": "ItemBackgroundsBZ",
+    "Author": "RamuneNeptune",
+    "Version": "2.0.0",
+    "Enable": true,
+    "AssemblyName": "ItemBackgroundsBZ.dll",
+    "VersionDependencies": { "SMLHelper": "2.14.1.1" },
+    "VersionChecker": { "LatestVersionURL": "https://raw.githubusercontent.com/ramennoodlesxv/BelowZeroMods/main/itembackgrounds.json" },
+    "Game": "BelowZero"
+}
