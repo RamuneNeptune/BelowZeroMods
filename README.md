@@ -40,7 +40,8 @@
 
 ![Invisible](https://i.imgur.com/8BU5aDV.png)
 ![IB](https://i.imgur.com/SvSlAyk.png)
-### [Change the background color of several types of items, e.g. Tools, Resources, Underwater Flora, and more..](https://github.com/ramennoodlesxv/BelowZeroMods/releases/download/Releases/ItemBackgrounds_BZ.zip)
+### [Change the background color of several types of items. (see below)](https://github.com/ramennoodlesxv/BelowZeroMods/releases/download/Releases/ItemBackgrounds_BZ.zip)
+![NexusImage](https://i.imgur.com/zYnPjdr.png)
 
 ![Invisible](https://i.imgur.com/8BU5aDV.png)
 # For more information on these mods, visit my Nexus Page [here](https://www.nexusmods.com/users/160597813?tab=user+files)
