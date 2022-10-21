@@ -1,9 +1,20 @@
 ![RamunesMods](https://i.imgur.com/Lo20FOZ.png)
 
-|   |  |  |   |   |
-| --- | --- | --- | --- | --- |
-| Airbladder Capacity | Ramunes Recipes  | Item Backgrounds | Seaglide Hyper Speed | Seaglide Speed |
+<table align="center">
+<thead>
+  <tr>
+    <th>Airbladder Capacity</th>
+    <th>Ramunes Recipes</th>
+    <th>Item Backgrounds</th>
+    <th>Seaglide Hyper Speed</th>
+    <th>Seaglide Speed</th>
+  </tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 
+#
 ![Notes](https://i.imgur.com/0C6XZR5.png)
 ![Divider](https://i.imgur.com/BJctAJs.png)
 ### Check out my Subnautica Modding Site!  -> https://snm.crd.co
