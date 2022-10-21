@@ -8,7 +8,7 @@
 ![Divider](https://i.imgur.com/BJctAJs.png)
 ### Check out my Subnautica Modding Site!  -> https://snm.crd.co
 ### From New Zealand -- Pronouns are He/Him
-### Younger then you *old hags*  (specifically old hag EldritchCarMaker)
+### Younger then you *old hags*  (specifically old hag EldritchCarMaker, she probably 82 next year)
 ![NZ](https://i.imgur.com/9pMqpZh.png)
 
 ![](https://komarev.com/ghpvc/?username=ramennoodlesxv&color=blue) ![](https://img.shields.io/github/downloads/ramennoodlesxv/BelowZeroMods/total?color=green&label=Total%20Downloads)
