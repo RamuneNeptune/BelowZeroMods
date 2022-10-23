@@ -2,7 +2,7 @@
     "Id": "ItemBackgroundsBZ",
     "DisplayName": "ItemBackgroundsBZ",
     "Author": "RamuneNeptune",
-    "Version": "2.0.1",
+    "Version": "2.0.2",
     "Enable": true,
     "AssemblyName": "ItemBackgrounds_BZ.dll",
     "VersionDependencies": { "SMLHelper": "2.14.1.1" },
