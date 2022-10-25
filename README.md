@@ -29,7 +29,7 @@
 - [x] Make your first mod
 - [x] Have several unfinished projects
 #
-![Releases](https://i.imgur.com/AGVkSyh.png)
+![Releases](https://i.imgur.com/CqM5cvk.png)
 ![Divider](https://i.imgur.com/BJctAJs.png)
 ###
 ![Invisible](https://i.imgur.com/8BU5aDV.png)
@@ -40,7 +40,7 @@
 #### This mod is also available for Subnautica -- visit [Lee23](https://github.com/LeeTwentyThree/Lee23-SubnauticaMods)'s mod downloads
 
 #
-![OtherReleases](https://i.imgur.com/yxZCwfG.png)
+![OtherReleases](https://i.imgur.com/tCzGUP6.png)
 ![Divider](https://i.imgur.com/BJctAJs.png)
 ###
 ![Invisible](https://i.imgur.com/8BU5aDV.png)
