@@ -39,7 +39,10 @@
 ![IB_2](https://i.imgur.com/WnSOcws.png)
 #### This mod is also available for Subnautica -- visit [Lee23](https://github.com/LeeTwentyThree/Lee23-SubnauticaMods)'s mod downloads
 
-![Invisible](https://i.imgur.com/8BU5aDV.png)
+#
+![OtherReleases](https://i.imgur.com/yxZCwfG.png)
+![Divider](https://i.imgur.com/BJctAJs.png)
+###
 ![Invisible](https://i.imgur.com/8BU5aDV.png)
 ![ABC](https://i.imgur.com/8B0PID4.png)
 ### [Adjust the amount of oxygen provided by the Airbladder when used.](https://github.com/ramennoodlesxv/BelowZeroMods/files/9596183/AirbladderCapacity_BZ.zip)
