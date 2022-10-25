@@ -33,6 +33,12 @@
 ![Divider](https://i.imgur.com/BJctAJs.png)
 ###
 ![Invisible](https://i.imgur.com/8BU5aDV.png)
+![IB](https://i.imgur.com/SvSlAyk.png)
+### [Change the background color of several types of items. (see below)](https://github.com/ramennoodlesxv/BelowZeroMods/releases/download/Releases/ItemBackgrounds_BZ.zip)
+![NexusImage](https://i.imgur.com/zYnPjdr.png)
+
+![Invisible](https://i.imgur.com/8BU5aDV.png)
+![Invisible](https://i.imgur.com/8BU5aDV.png)
 ![ABC](https://i.imgur.com/8B0PID4.png)
 ### [Adjust the amount of oxygen provided by the Airbladder when used.](https://github.com/ramennoodlesxv/BelowZeroMods/files/9596183/AirbladderCapacity_BZ.zip)
 #### Configurable in game, re-equip the Airbladder to apply changes
@@ -53,11 +59,3 @@
 #### Reduce cost of solar panel Quartz, Titanium, and Copper from 2 to 1
 #### No Ion Battery in Headlamp (replaced with normal Battery)
 #### No Diamond or Lead in Enameled Glass
-
-![Invisible](https://i.imgur.com/8BU5aDV.png)
-![IB](https://i.imgur.com/SvSlAyk.png)
-### [Change the background color of several types of items. (see below)](https://github.com/ramennoodlesxv/BelowZeroMods/releases/download/Releases/ItemBackgrounds_BZ.zip)
-![NexusImage](https://i.imgur.com/zYnPjdr.png)
-
-![Invisible](https://i.imgur.com/8BU5aDV.png)
-# For more information on these mods, visit my Nexus Page [here](https://www.nexusmods.com/users/160597813?tab=user+files)
