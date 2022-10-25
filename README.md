@@ -33,7 +33,7 @@
 ![Divider](https://i.imgur.com/BJctAJs.png)
 ###
 ![Invisible](https://i.imgur.com/8BU5aDV.png)
-![IB](https://i.imgur.com/QCj8Vac.png)
+# Item Backgrounds
 ### [Change the background color of several types of items.](https://github.com/ramennoodlesxv/BelowZeroMods/releases/download/Releases/ItemBackgrounds_BZ.zip)
 ![IB_1](https://i.imgur.com/I0Y8Zfm.png)
 ![IB_2](https://i.imgur.com/WnSOcws.png)
