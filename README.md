@@ -34,8 +34,10 @@
 ###
 ![Invisible](https://i.imgur.com/8BU5aDV.png)
 ![IB](https://i.imgur.com/SvSlAyk.png)
-### [Change the background color of several types of items. (see below)](https://github.com/ramennoodlesxv/BelowZeroMods/releases/download/Releases/ItemBackgrounds_BZ.zip)
-![NexusImage](https://i.imgur.com/zYnPjdr.png)
+### [Change the background color of several types of items.](https://github.com/ramennoodlesxv/BelowZeroMods/releases/download/Releases/ItemBackgrounds_BZ.zip)
+![IB_1](https://i.imgur.com/I0Y8Zfm.png)
+![IB_2](https://i.imgur.com/WnSOcws.png)
+#### This mod is also available for Subnautica -- visit [Lee23](https://github.com/LeeTwentyThree/Lee23-SubnauticaMods)'s mod downloads
 
 ![Invisible](https://i.imgur.com/8BU5aDV.png)
 ![Invisible](https://i.imgur.com/8BU5aDV.png)
