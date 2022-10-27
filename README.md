@@ -38,7 +38,7 @@
 ![IB_2](https://i.imgur.com/WnSOcws.png)
 #### This mod is also available for Subnautica -- visit [Lee23](https://github.com/LeeTwentyThree/Lee23-SubnauticaMods)'s mod downloads
 #
-### ❗ **Hey, sorry just realised now, this has issues with stuff that has square icons. (see fix below)**
+### ❗ **Hey, sorry just realised now, this mod cannot make square icons, which can cause this issue. (see fix below)**
 ![BUG](https://i.imgur.com/qFwsv6R.png)
 #### Set the background of stuff that is supposed to be a square (eg Land Flora) to any background after `23/30 - White` in the list 
 
