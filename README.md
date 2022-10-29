@@ -26,7 +26,7 @@
 > #### *Set the background of anything thats supposed to be a square, to any background after 23/30 in the list to fix the squares becoming circle issue. This is the only fix until I recode the mod. Or just deal with the square items being circles for the time being, it's not too bad.*
 
 > #### This mod is also available for Subnautica -- visit [Lee23](https://github.com/LeeTwentyThree/Lee23-SubnauticaMods)'s mod downloads
-#
+![Invisible](https://i.imgur.com/8BU5aDV.png)
 ![Divider](https://i.imgur.com/BJctAJs.png)
 
 # Exosuit Scaler
@@ -37,7 +37,6 @@
 #
 > #### __**These are real UNEDITED screenshots taken in game using this mod**__
 ![Invisible](https://i.imgur.com/8BU5aDV.png)
-
 ![Divider](https://i.imgur.com/BJctAJs.png)
 ![Invisible](https://i.imgur.com/8BU5aDV.png)
 ![SHS](https://i.imgur.com/Dmz75Ac.png)
