@@ -54,28 +54,8 @@
 ![Invisible](https://i.imgur.com/8BU5aDV.png)
 
 ![Divider](https://i.imgur.com/BJctAJs.png)
-
-![OtherReleases](https://i.imgur.com/tCzGUP6.png)
-![Divider](https://i.imgur.com/BJctAJs.png)
-###
-![Invisible](https://i.imgur.com/8BU5aDV.png)
-![ABC](https://i.imgur.com/jLcnamR.png)
-### [Adjust the amount of oxygen provided by the Airbladder when used.](https://github.com/ramennoodlesxv/BelowZeroMods/files/9596183/AirbladderCapacity_BZ.zip) 🔽
-#### Configurable in game, re-equip the Airbladder to apply changes
-
-![Invisible](https://i.imgur.com/8BU5aDV.png)
-![SS](https://i.imgur.com/21XY2tg.png)
-### [Adjust the speed of the Seaglide to your liking.](https://github.com/ramennoodlesxv/BelowZeroMods/releases/download/Releases/SeaglideSpeed_BZ.zip) 🔽
-#### Configurable in game, but requires a game restart (sorry!)
-
 ![Invisible](https://i.imgur.com/8BU5aDV.png)
 ![SHS](https://i.imgur.com/Dmz75Ac.png)
 ### [Seaglide speed, but way faster.](https://github.com/ramennoodlesxv/BelowZeroMods/releases/download/Releases/SeaglideHyperSpeed_BZ.zip) 🔽
 #### Like 20x bigger limit than Seaglide Speed
-
 ![Invisible](https://i.imgur.com/8BU5aDV.png)
-![RR](https://i.imgur.com/70jHKYZ.png)
-### [Toggle custom recipes I have made to make life easier.](https://github.com/ramennoodlesxv/BelowZeroMods/releases/download/Releases/RamunesRecipes_BZ.zip) 🔽
-#### Reduce cost of solar panel Quartz, Titanium, and Copper from 2 to 1
-#### No Ion Battery in Headlamp (replaced with normal Battery)
-#### No Diamond or Lead in Enameled Glass
