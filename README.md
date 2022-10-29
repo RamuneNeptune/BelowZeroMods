@@ -42,8 +42,13 @@
 ![SHS](https://i.imgur.com/Dmz75Ac.png)
 ### [Seaglide speed, but way faster.](https://github.com/ramennoodlesxv/BelowZeroMods/releases/download/Releases/SeaglideHyperSpeed_BZ.zip) 🔽
 #### Like 20x bigger limit than Seaglide Speed
+
 ![Invisible](https://i.imgur.com/8BU5aDV.png)
+
 #
 Looking for my other mods? -> [[ x ]](https://github.com/ramennoodlesxv/BelowZeroMods/releases/tag/Releases) 
 #
+
+![Invisible](https://i.imgur.com/8BU5aDV.png)
+
 ## Report any issues directly to me via discord -->  RamuneNeptune#1816
