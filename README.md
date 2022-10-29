@@ -42,7 +42,7 @@
 ![Divider](https://i.imgur.com/BJctAJs.png)
 
 # Exosuit Scaler
-### [I love this mod, you can scale the width, height, and length of the prawn suit]() 🔽
+### [I love this mod, you can scale the width, height, and length of the prawn suit](https://github.com/ramennoodlesxv/BelowZeroMods/releases/download/Releases/ExosuitScaler.zip) 🔽
 #
 ![A](https://i.imgur.com/0OPoeFM.png)
 ![B](https://i.imgur.com/3Yjg9SY.png)
