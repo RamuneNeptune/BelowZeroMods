@@ -13,7 +13,6 @@
 - [x] Make your first mod
 - [x] Have several unfinished projects
 #
-# Report any issues directly to me  -->  RamuneNeptune#1816
 
 ![Releases](https://i.imgur.com/CqM5cvk.png)
 ![Divider](https://i.imgur.com/BJctAJs.png)
@@ -46,3 +45,5 @@
 ![Invisible](https://i.imgur.com/8BU5aDV.png)
 #
 Looking for my other mods? -> [[ x ]](https://github.com/ramennoodlesxv/BelowZeroMods/releases/tag/Releases) 
+#
+## Report any issues directly to me via discord -->  RamuneNeptune#1816
