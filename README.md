@@ -43,13 +43,12 @@
 
 # Exosuit Scaler
 ### [I love this mod, you can scale the width, height, and length of the prawn suit]() 🔽
-### __**These are real UNEDITED screenshots taken in game using this mod**__
 #
 ![A](https://i.imgur.com/0OPoeFM.png)
 ![B](https://i.imgur.com/3Yjg9SY.png)
 ![C](https://i.imgur.com/aHp4TCB.png)
 #
-#### Configurable in game, re-pilot the prawn suit to apply changes
+### __**These are real UNEDITED screenshots taken in game using this mod**__
 ![Invisible](https://i.imgur.com/8BU5aDV.png)
 
 ![Divider](https://i.imgur.com/BJctAJs.png)
