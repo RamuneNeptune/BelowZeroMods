@@ -37,12 +37,23 @@
 ![IB_1](https://i.imgur.com/I0Y8Zfm.png)
 ![IB_2](https://i.imgur.com/WnSOcws.png)
 #### This mod is also available for Subnautica -- visit [Lee23](https://github.com/LeeTwentyThree/Lee23-SubnauticaMods)'s mod downloads
+#### `Set the background of anything thats supposed to be a square, to any background after 23/30 in the list to fix the squares becoming circle issue. This is the only fix until I recode the mod. Or just deal with the square items being circles for the time being, it's not too bad.` 
 #
-### ❗ **Hey, sorry just realised now, this mod cannot make square icons, which can cause this issue. (see fix below)**
-![BUG](https://i.imgur.com/qFwsv6R.png)
-#### Set the background of stuff that is supposed to be a square (eg Land Flora) to any background after `23/30 - White` in the list 
+![Divider](https://i.imgur.com/BJctAJs.png)
 
+# Exosuit Scaler
+### [I love this mod, you can scale the width, height, and length of the prawn suit]() 🔽
+### __**These are real UNEDITED screenshots taken in game using this mod**__
 #
+![A](https://i.imgur.com/0OPoeFM.png)
+![B](https://i.imgur.com/3Yjg9SY.png)
+![C](https://i.imgur.com/aHp4TCB.png)
+#
+#### Configurable in game, re-pilot the prawn suit to apply changes
+![Invisible](https://i.imgur.com/8BU5aDV.png)
+
+![Divider](https://i.imgur.com/BJctAJs.png)
+
 ![OtherReleases](https://i.imgur.com/tCzGUP6.png)
 ![Divider](https://i.imgur.com/BJctAJs.png)
 ###
