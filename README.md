@@ -47,7 +47,7 @@
 ![Invisible](https://i.imgur.com/8BU5aDV.png)
 ![SHS](https://i.imgur.com/Dmz75Ac.png)
 ### [Seaglide speed, but way faster.](https://github.com/ramennoodlesxv/BelowZeroMods/releases/download/Releases/SeaglideHyperSpeed_BZ.zip) 🔽
-#### Like 20x bigger limit than Seaglide Speed
+#### Change the speed of your seaglide to go upto like 300m/s
 
 ![Invisible](https://i.imgur.com/8BU5aDV.png)
 
