@@ -7,6 +7,8 @@
 #### Suffering from Success: `69420 million in revenue from modding` (paying 2 billion in taxes) 💸
 ![NZ](https://i.imgur.com/9pMqpZh.png)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S0GB5G0)
+
 ![](https://komarev.com/ghpvc/?username=ramennoodlesxv&color=blue) ![](https://img.shields.io/github/downloads/ramennoodlesxv/BelowZeroMods/total?color=green&label=Total%20Downloads)
 #
 - [x] Understand some code
