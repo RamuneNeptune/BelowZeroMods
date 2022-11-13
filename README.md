@@ -11,6 +11,8 @@
 
 ![](https://komarev.com/ghpvc/?username=ramennoodlesxv&color=blue) ![](https://img.shields.io/github/downloads/ramennoodlesxv/BelowZeroMods/total?color=green&label=Total%20Downloads)
 #
+### Thank you Locroft!
+#
 - [x] Understand some code
 - [x] Make your first mod
 - [x] Have several unfinished projects
