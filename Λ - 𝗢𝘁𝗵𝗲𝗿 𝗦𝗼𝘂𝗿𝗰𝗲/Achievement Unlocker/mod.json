@@ -1,0 +1,10 @@
+﻿{
+    "Id": "AchievementUnlocker_BZ",
+    "DisplayName": "AchievementUnlocker_BZ",
+    "Author": "RamuneNeptune",
+    "Version": "1.0.0",
+    "Enable": true,
+    "AssemblyName": "AchievementUnlocker_BZ.dll",
+    "VersionDependencies": { "SMLHelper": "2.14.1" },
+    "Game": "BelowZero"
+}
