@@ -1,0 +1,10 @@
+﻿{
+    "Id": "ExplodeMyVehicles_BZ",
+    "DisplayName": "ExplodeMyVehicles_BZ",
+    "Author": "RamuneNeptune",
+    "Version": "1.0.0",
+    "Enable": true,
+    "AssemblyName": "ExplodeMyVehicles_BZ.dll",
+    "VersionDependencies": { "SMLHelper": "2.14.1" },
+    "Game": "BelowZero"
+}
