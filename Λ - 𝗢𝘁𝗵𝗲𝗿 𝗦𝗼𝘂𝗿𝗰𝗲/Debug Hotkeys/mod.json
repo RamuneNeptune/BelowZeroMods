@@ -1,0 +1,10 @@
+﻿{
+    "Id": "CommandHotkeysBZ",
+    "DisplayName": "CommandHotkeysBZ",
+    "Author": "RamuneNeptune",
+    "Version": "1.0.0",
+    "Enable": true,
+    "AssemblyName": "CommandHotkeysBZ.dll",
+    "VersionDependencies": { "SMLHelper": "2.14.1" },
+    "Game": "BelowZero"
+}
